@@ -1705,11 +1705,12 @@ body {
   }
 }
 .cid-qSvOtmpaUn {
-  background: #ffffff;
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: #232323;
 }
 .cid-qSvOtmpaUn .video-block {
   margin: auto;
-  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-qSvOtmpaUn .video-block {
