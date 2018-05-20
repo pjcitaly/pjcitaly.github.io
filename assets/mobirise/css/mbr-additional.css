@@ -1289,8 +1289,11 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
+.cid-qSxPFGtbMx {
+  background-image: url("../../../assets/images/background5.jpg");
+}
 .cid-qSvuR0F4Gs {
-  background-image: url("../../../assets/images/mbr-1620x1080.jpg");
+  background-image: url("../../../assets/images/header-2-1000x540.jpg");
 }
 .cid-qSvr71NIc7 .navbar {
   padding: .5rem 0;
