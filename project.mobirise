@@ -37,7 +37,9 @@
         "#3d0909",
         "#6a0808"
       ]
-    }
+    },
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
