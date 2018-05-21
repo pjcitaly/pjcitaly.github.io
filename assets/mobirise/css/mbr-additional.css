@@ -1705,8 +1705,8 @@ body {
   }
 }
 .cid-qSvOtmpaUn {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 120px;
+  padding-bottom: 120px;
   background: #232323;
 }
 .cid-qSvOtmpaUn .video-block {
@@ -1718,8 +1718,8 @@ body {
   }
 }
 .cid-qSvQboGMYn {
-  padding-top: 0px;
-  padding-bottom: 0px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #000000;
 }
 .cid-qSvQboGMYn .testimonial-text {
@@ -1930,6 +1930,29 @@ body {
 .cid-qSxsz3UHuR .card-img span {
   font-size: 72px;
   color: #707070;
+}
+.cid-qSFQsmKbMy {
+  background: #ffffff;
+}
+.cid-qSFQsmKbMy .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-qSFQsmKbMy .mbr-figure {
+  margin: 0 auto;
+}
+.cid-qSFQsmKbMy figcaption {
+  position: relative;
+}
+.cid-qSFQsmKbMy figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qSFQsmKbMy .image-block {
+    width: 100% !important;
+  }
 }
 .cid-qSvr75s5bd {
   padding-top: 60px;
